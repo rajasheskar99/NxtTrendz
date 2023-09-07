@@ -1,0 +1,39 @@
+.carty-summary {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+
+  margin-left: auto;
+}
+.cart-btn {
+  font-size: 14px;
+  font-weight: 400;
+  font-family: 'Roboto';
+  color: #ffffff;
+  border: none;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  border-radius: 6px;
+  background-color: #0967d2;
+  margin-top: 20px;
+  cursor: pointer;
+  outline: none;
+}
+.summary-head {
+  font-family: 'roboto';
+  font-size: 18px;
+  color: #616e7c;
+  margin-bottom: 0;
+}
+.summary-desc {
+  font-family: 'roboto';
+  font-size: 14px;
+  color: #616e7c;
+  margin-bottom: 5px;
+}
+.total {
+  font-family: 'roboto';
+  font-size: 25px;
+  color: black;
+  font-weight: 700;
+}
